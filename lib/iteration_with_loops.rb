@@ -11,7 +11,7 @@ array_2 = [1, 1, 0
 
 find_min_in_nested_arrays = []
 
- find_min_in_nested_arrays[array_2]
- find_min_in_nested_arrays[array_1]
+ find_min_in_nested_arrays(array_2)
+ find_min_in_nested_arrays(array_1)
 
 end
