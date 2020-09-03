@@ -8,7 +8,7 @@ src = [
   [1, 1, 0]
   ]
 
-find_min_in_nested_arrays = src[1]
+find_min_in_nested_arrays = src[0]
 
 
 
