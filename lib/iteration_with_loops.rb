@@ -6,7 +6,7 @@ def find_min_in_nested_arrays(src)
 array_1 = [
   18, 17, 13, 19, 20, 24, 22]
 
-p find_min_in_nested_arrays[array_1]
+ find_min_in_nested_arrays = [array_1]
 
-
+p find_min_in_nested_arrays
 end
