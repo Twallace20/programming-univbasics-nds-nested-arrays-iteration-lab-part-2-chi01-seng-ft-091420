@@ -9,7 +9,7 @@ src = [
   ]
 
 find_min_in_nested_arrays_array_2 = src[1]
-
+find_min_in_nested_arrays_array_1 = src[0]
 
 
 
